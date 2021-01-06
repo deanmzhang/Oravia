@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ultra_bright_cloud
+  m_Shader: {fileID: -6465566751694194690, guid: 285e942f08cd34dc190c616d59b340d3,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    MotionVector: User
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_9D184686: 0.1
+    - Vector1_BEE97428: 2.1
+    - Vector1_C2354EF8: 100
+    - Vector1_EEE397F7: 20
+    m_Colors:
+    - Color_702F6782: {r: 0, g: 0.96078444, b: 1, a: 0.50980395}
+    - Color_C7BA4B63: {r: 1, g: 1, b: 1, a: 0.5019608}
