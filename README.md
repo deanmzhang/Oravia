@@ -12,3 +12,5 @@ To stop the storm and purify everyone, you must battle head to head with the Rul
 However, you are not strong enough right now, so you must collect feathers to gain enough strength before attempting to heal the Ruler. 
 
 Good luck!
+
+Link to game: https://leekaling.itch.io/oravia
